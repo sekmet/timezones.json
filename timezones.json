@@ -387,7 +387,9 @@
     "isdst": false,
     "text": "(UTC-03:00) Brasilia",
     "utc": [
-      "America/Sao_Paulo"
+      "America/Sao_Paulo",
+	    "America/Sao_Paulo2",
+	    "America/Sao_Paulo3"
     ]
   },
   {
